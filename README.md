@@ -23,7 +23,7 @@ Actualmente me encuentro profundizando en machine learning y automatización de 
 
 `Python` `Matlab` `Bash` `PostgreSQL` `ETL Pipelines`  
 `Power BI` `Streamlit` `ArcGIS`  
-`scikit-learn` `pandas` `Inglés (intermedio)`
+`Machine Learning`  `Inglés (intermedio)`
 
 ---
 
